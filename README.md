@@ -1,4 +1,4 @@
-# Nylas Arc Dark Theme
+# Mailspring Arc Dark Theme
 
 Arc Dark theme for [MailSpring](https://github.com/Foundry376/Mailspring)
 
